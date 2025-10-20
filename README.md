@@ -11,3 +11,7 @@
 
 
 ## 📔 Exercices
+
+[Exercice 1 Algorithmie sur les tableaux](https://github.com/Theufyr/xo-ghl_toj/tree/main/exo1 "Exercice 1 Algorithmie sur les tableaux")
+
+[Exercice 2 Algorithmie sur les objets](https://github.com/Theufyr/xo-ghl_toj/tree/main/exo2 "Exercice 2 Algorithmie sur les objets")
